@@ -53,18 +53,20 @@ Built a full-featured **To-Do Task List** web application using **Laravel 9** wi
 ### Task Dashboard (Index)
 Shows stat cards (Total: 3, Pending: 1, In Progress: 1, Completed: 1), filter bar, and task table with color-coded status/priority badges:
 
-![Task Dashboard] <img width="2296" height="1183" alt="image" src="https://github.com/user-attachments/assets/a0bbd8dc-b542-4afd-b435-777c14398fef" />
+<img width="2296" height="1183" alt="image" src="https://github.com/user-attachments/assets/a0bbd8dc-b542-4afd-b435-777c14398fef" />
 
 
 ### Task Detail View (Show)
 Shows full task details with status, priority, due date, and description:
 
-![Task Detail](C:/Users/yeong/.gemini/antigravity/brain/03049aa8-762e-40d5-8863-7cc641a03fe5/task_detail_view.png)
+<img width="2298" height="1191" alt="image" src="https://github.com/user-attachments/assets/d02c7ae2-54b3-4ad9-a2dc-a9026752a96b" />
+
 
 ### Task Edit Form
 Pre-filled form for updating task fields:
 
-![Task Edit](C:/Users/yeong/.gemini/antigravity/brain/03049aa8-762e-40d5-8863-7cc641a03fe5/task_edit_form.png)
+<img width="2299" height="1190" alt="image" src="https://github.com/user-attachments/assets/098baf62-e1d3-444f-b5ad-cf86573eb903" />
+
 
 ## Database Verification
 
